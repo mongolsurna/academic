@@ -272,7 +272,12 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
+  
+name_candidates:
+  - surna
+  - Rina
+  - rina
+  - 日娜
 
 # Archives
 #  Type
