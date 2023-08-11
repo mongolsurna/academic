@@ -11,9 +11,9 @@ title                    : "Zhaolin Yuan / Academic main page."
 title_separator          : "-"
 name                     : &name "Zhaolin YUan"
 description              : &description "Hello."
-url                      : https://y18810919727.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://mongolsurna.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "https://github.com/y18810919727/academic.git"
+repository               : "https://github.com/mongolsurna/academic.git"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhalin Yuan"
-  avatar           : "2cun.jpg"
+  name             : "Surna"
+  avatar           : "profile.JPG"
   bio              : "Industrial AI researcher"
   location         : "Location"
   employer         :
