@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhaolin Yuan / Academic main page."
+title                    : "Surna / Academic main page."
 title_separator          : "-"
-name                     : &name "Zhaolin YUan"
+name                     : &name "Surna"
 description              : &description "Hello."
 url                      : https://mongolsurna.github.io/academic/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=PgM9DT8AAAAJ"
-  email            : "18810919727@163.com"
+  email            : "mongolsurna@163.com "
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/y18810919727"
+  github           : "https://github.com/mongolsurna"
   google_plus      :
   keybase          :
   instagram        :
